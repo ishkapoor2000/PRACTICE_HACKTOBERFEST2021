@@ -141,7 +141,7 @@ Our Hacktoberfest-2021 Contribution Practice Repository for Noobs😎... Contrib
 
 ## 👬 Owner
 
-<a href="https://github.com/ishkapoor2000"><img src="https://linkpicture.com/q/aritraroy24_1.jpg" width="100px;" alt=""/><br /><sub><b>Ish Kapoor</b></sub></a>
+<a href="https://github.com/ishkapoor2000"><img src="https://avatars.githubusercontent.com/u/60035881?v=4" width="100px;" alt=""/><br /><sub><b>Ish Kapoor</b></sub></a>
 </br>
 <!-- 👨🏼‍💻 Intermediate | 👩‍🎓 M.Sc. Chemistry | :computer: Theoretical Computational Chemist | 💜Open-Source Mentor | -->
 
