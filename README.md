@@ -1,7 +1,7 @@
 # PRACTICE HACKTOBERFEST 2021
 Our Hacktoberfest-2021 Contribution Practice Repository for Noobs😎... Contribute In Any Language &amp; In Any Form✨✨✨
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ishkapoor2000/PRACTICE_HACKTOBERFEST2021?logo=github&style=social)](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ishkapoor2000/PRACTICE_HACKTOBERFEST2021?logo=github&style=social)](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021)
 [![GitHub issues](https://img.shields.io/github/issues/ishkapoor2000/PRACTICE_HACKTOBERFEST2021?logo=github)](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/issues)
 [![GitHub stars](https://img.shields.io/github/stars/ishkapoor2000/PRACTICE_HACKTOBERFEST2021?style=social)](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/stargazers)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fishkapoor2000%2FPRACTICE_HACKTOBERFEST2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021) 
@@ -10,6 +10,7 @@ Our Hacktoberfest-2021 Contribution Practice Repository for Noobs😎... Contrib
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2021)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](.github/CONTRIBUTING.md)
 </br>
 
 <h2 align="center">
