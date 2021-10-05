@@ -9,7 +9,7 @@ Our Hacktoberfest-2021 Contribution Practice Repository for Noobs😎... Contrib
 ![Author](https://img.shields.io/badge/Owner-ishkapoor2000-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Visual%20Studio%20Code-blue)
-![Maintained](https://img.shields.io/maintenance/yes/2021)
+![Maintained](https://img.shields.io/maintenance/no/2021)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](.github/CONTRIBUTING.md)
 </br>
 
