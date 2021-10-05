@@ -92,7 +92,7 @@ Click on fork to create a copy of project to your account. This creates a separa
 
 You have forked the project you want to contribute to your github account. To get this project on your development machine we use clone command of git.
 
-`$ git clone https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021.git` <br/>
+`$ git clone https://github.com/<your username>/PRACTICE_HACKTOBERFEST2021.git` <br/>
 
 Now you have the project on your local machine.
 
@@ -103,7 +103,7 @@ Now you have the project on your local machine.
 **Remote** means the _**remote location** of project on **Github**_. By cloning, we have a remote called _origin_ which points to your forked repository. Now, we will add a remote to the original repository from where we had forked.
 
 `$ cd <your-forked-project-folder>`
-`$ git remote add upstream https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021.git` <br/>
+`$ git remote add upstream https://github.com/<your username>/PRACTICE_HACKTOBERFEST2021.git` <br/>
 You will see the benefits of adding remote later.
 
 <br />
