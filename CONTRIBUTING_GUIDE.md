@@ -61,6 +61,55 @@ Inside each directory there is a `README` file. This is the index file of the di
 
 <br />
 
+## Repository Hierarchy
+
+```
+.root:PRACTICE_HACKTOBERFEST2021
+│   CONTRIBUTING_GUIDE.md
+│   README.md
+│   LICENSE
+│
+└───Arduino
+│   │   Arduino_CONTRIBUTION.md
+│   │
+│   └───Your_Topic
+│       │   Your_Topic_CONTRIBUTION.md
+│
+└───Machine Learning
+│   │   MachineLearning_CONTRIBUTION.md
+│   │
+│   └───DL
+│   │   │   DeepLearning_CONTRIBUTION.md
+│   │   │
+│   |   └───Your_DL_Topic
+│   │       │   Your_DL_Topic_CONTRIBUTION.md
+│   |
+│   └───ML
+│   │   │   MachineLearning_CONTRIBUTION.md
+│   │   │
+│   |   └───Your_ML_Topic
+│   │       │   Your_ML_Topic_CONTRIBUTION.md
+│   |
+│   └───NLP
+│   │   │   NaturalLanguageProcessing_CONTRIBUTION.md
+│   │   │
+│   |   └───Your_NLP_Topic
+│   │       │   Your_NLP_Topic_CONTRIBUTION.md
+│   |
+│   └───OPENCV
+│   │   │   OPENCV_CONTRIBUTION.md
+│   │   │
+│   |   └───Your_OPENCV_Topic
+│   │       │   Your_OPENCV_Topic_CONTRIBUTION.md
+│
+└───Prohramming
+│   │   Programming_CONTRIBUTION.md
+│   │
+│   └───Your_Topic
+│       │   Your_Topic_CONTRIBUTION.md
+│
+```
+
 ## Basics of Git and GitHub
 
 ### Git & GitHub
