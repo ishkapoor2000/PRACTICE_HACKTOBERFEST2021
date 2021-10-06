@@ -35,19 +35,23 @@ Inside Machine Learning, there are 4 different categories:
 ### Machine Learning
 Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. 
 You can contribute to this repository via creating ML Projects, predictions, tutorials or theory for any particular topic, etc.
+<br>
 _Note_: Do not put project other than **ML** here, they should be pat of respective categories. Unrelated project in wrong directory will be rejected.
 
 ### Deep Learning
 Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
 You can contribute to this repository via creating DL Projects, predictions, tutorials or theory for any particular topic, etc.
+<br>
 _Note_: Do not put **OpenCV** related project here, they should be pat of [OpenCV](#open-computer-vision).Unrelated project in wrong directory will be rejected.
 
 ### Natural Language Processing
 Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them.
+<br>
 _Note_: Do not put project other than **NLP** here, they should be pat of respective categories. Unrelated project in wrong directory will be rejected.
 
 ### Open Computer Vision
 OpenCV (Open Source Computer Vision Library) is a library of programming functions mainly aimed at real-time computer vision. This library is cross-platform and free for use under the open-source Apache 2 License. It also supports model execution for Machine Learning (ML) and Artificial Intelligence (AI).OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products.
+<br>
 _Note_: Do not put **DL** or any unrelated projects here, they should be pat of respective categories. Unrelated project in wrong directory will be rejected.
 
 
@@ -110,7 +114,7 @@ Keep Contributing!
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟
 
-##### Click icon to access Simulation Softwares
+##### Click icons to access
 
 <a href="https://colab.research.google.com/"><img src="https://miro.medium.com/max/776/1*Lad06lrjlU9UZgSTHUoyfA.png" align="left" height="100" width="250" style="object-fit: contain;" /></a>
 
