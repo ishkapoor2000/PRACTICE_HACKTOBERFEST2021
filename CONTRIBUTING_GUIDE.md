@@ -6,6 +6,7 @@ Hello👋. Welcome to Practice Repository for HACKTOBERFEST 2021✨✨
 | [Contributing to this repo](#contributing-to-this-repository) |
 | [Adding A New Folder](#adding-a-new-folder)                   |
 | [Index (readme) Files](#index-readme-files)                   |
+| [Repository Hierarchy](#repository-hierarchy)                 |
 | [Basics of Git & GitHub](#basics-of-git-and-github)           |
 
 ## Contributing to this repository
@@ -109,6 +110,8 @@ Inside each directory there is a `README` file. This is the index file of the di
 │       │   Your_Topic_CONTRIBUTION.md
 │
 ```
+
+<br />
 
 ## Basics of Git and GitHub
 
