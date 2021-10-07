@@ -11,7 +11,7 @@ If you're an **Software** or **Coding** enthusiast :sunglasses: and want to add 
 <h3 align="center">
 <a href="https://hacktoberfest.digitalocean.com/"><img src="https://64.media.tumblr.com/7fea346d43dff365ad54f4a33441389f/1473908e7816c915-fe/s540x810/80ecb48ebe2db3aa0b3e2757ce10c71d5b3acbc9.png"></a>
   </h3>
-When it comes to Electric & Electronics domain practice makes one perfect! (Whether you are a beginner or on the way to becoming a pro) join us this Hacktoberfest 🎊 to practice and sharpen your analysing skill and develop new projects. Work your way up through a self-choosen project that interest you. All that matters is making this October a month of learning and winning Schwags 👕
+When it comes to Software, Tech & Programming domain practice makes one perfect! (Whether you are a beginner or on the way to becoming a pro) join us this Hacktoberfest 🎊 to practice and sharpen your analysing skill and develop new projects. Programming logic improves by practice. You are smart from the very beginning. With programming, you continuously train yourself with real-world problems that test the better out of your current logic skills. By practicing more and more you get better and this improves your logic, development and analytics. Work your way up through a self-choosen project that interest you. All that matters is making this October a month of learning and winning Schwags 👕
 
 <h2>
  What is Hacktoberfest2021 :thinking:? 
@@ -54,18 +54,30 @@ git push origin my-new-branch
 
 Keep Contributing!
 
- ## Resources
-- [Learn how to create a Pull Request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+ ## Resources :man_technologist: :woman_technologist:
+- [Top Resources to Learn Coding](https://www.hostinger.com/tutorials/learn-coding-online-for-free)
 
 - [Learn the Git Basics](https://try.github.io)
 
+- [Learn Python](https://www.programiz.com/python-programming)
+
+- [Learn C++](https://www.programiz.com/cpp-programming)
+
+- [Learn Java](https://www.programiz.com/java-programming)
+
+- [Practice Coding on HackerRank](https://www.hackerrank.com)
+
+- [Learn Web Development](https://www.w3schools.com/whatis)
+
+- [Learn Android Development Online](https://www.udemy.com/course/learn-android-application-development-y)
+
+- [Learn Android Development Online](https://www.udemy.com/course/the-art-of-real-ios-programming/)
+
 ##### Click icon to access Simulation Softwares
 
-<a href="https://www.arduino.cc/en/Main/Software_"><img src="https://64.media.tumblr.com/29c9aa0efbaebe523688b7f0ec1a8e1f/1c18798b14bb4f88-10/s400x600/da3e77831781e4eea3837046db9f1d9b2925189e.png" align="left" height="100" width="250" ></a>
+<a href="https://replit.com"><img src="https://cdn.freebiesupply.com/logos/large/2x/replit-logo-png-transparent.png" align="left" height="100" width="250" ></a>
 
-<a href="https://www.tinkercad.com/"><img src="https://64.media.tumblr.com/bdaa7635507d980c2fcf473f9ab460cc/34edd42736f512fc-16/s540x810/d24a836b5e52a8bc8efebc377b75f1d648bf8995.jpg" align="left" height="100" width="250" ></a>
-
-<a href="https://fritzing.org/"><img src="https://64.media.tumblr.com/677556a2b32b7328150b5e1fc6b1b656/d19e3a3bb3ce0976-0a/s540x810/5fc4a28aa40cfdb86ed3069b5761fb90c78aa74e.jpg" align="left" height="100" width="250" ></a><br>
+<a href="https://codepen.io"><img src="https://th.bing.com/th/id/OIP.f9q2H_oLz2BxW-rEnrHY6gHaBV?pid=ImgDet&rs=1" align="left" height="100" width="250" ></a><br>
 
 <br><br><br>
 
