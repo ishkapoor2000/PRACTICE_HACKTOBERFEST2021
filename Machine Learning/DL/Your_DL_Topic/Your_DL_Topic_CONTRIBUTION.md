@@ -4,7 +4,7 @@
   _Name_: **<Your Name>** <br />
   _GitHubID_: **<Your GitHub ID>** <br />
   _YourTopic_: **<Full name of Topic>** <br />
-  _Language/Framework_: **<Full name of Framework/Language>** <br />
+  _Language/Framework_: **<Full name of Framework or Language>** <br />
 
 **_Note_**: Replace <Your Name> with your own full name; replace <Your GitHub ID> with your GitHub ID; replace <Your GitHub ID> with your GitHub ID; replace others likewise. Do not remove ** & **. Make sure to remove <>.
 
