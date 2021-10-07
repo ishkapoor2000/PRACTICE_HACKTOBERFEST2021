@@ -45,9 +45,10 @@ git push origin my-new-branch
 ## Contribution Guidelines 📃
 
 #### Kindly mention the following while making a PR:
-* It is mandatory to attach the Circuit Diagram  or Simulation Video along the code.
+* It is mandatory to attach the readme.md along the code files.
 * If the PR is not in the presenatble format, it will not be merged and marked as invalid.
-* You can make a new folder for a particular topic that you want to choose as your topic for contribution.
+* You have to make a new folder for a particular topic that you want to choose as the topic for contribution.
+* Make sure to provide snippet of output of the code (screenshot is preferred).
 * Avoid repeating the topics/projects which are already available.
 
 #### All your PRs will be marked as invalid if you don't adhere to the rules.
@@ -75,9 +76,9 @@ Keep Contributing!
 
 ##### Click icon to access Simulation Softwares
 
-<a href="https://replit.com"><img src="https://cdn.freebiesupply.com/logos/large/2x/replit-logo-png-transparent.png" align="left" height="100" width="250" ></a>
+<a href="https://replit.com"><img src="https://cdn.freebiesupply.com/logos/large/2x/replit-logo-png-transparent.png" align="left" height="100" width="auto" ></a>
 
-<a href="https://codepen.io"><img src="https://th.bing.com/th/id/OIP.f9q2H_oLz2BxW-rEnrHY6gHaBV?pid=ImgDet&rs=1" align="left" height="100" width="250" ></a><br>
+<a href="https://codepen.io"><img src="https://th.bing.com/th/id/OIP.f9q2H_oLz2BxW-rEnrHY6gHaBV?pid=ImgDet&rs=1" align="left" height="100" width="auto" ></a><br>
 
 <br><br><br>
 
