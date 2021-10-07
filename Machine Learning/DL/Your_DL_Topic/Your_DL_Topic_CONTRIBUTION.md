@@ -1,4 +1,4 @@
-# Your_ML_Project
+# Your_DL_Project
 
 # Your_Details
   _Name_: **<Your Name>** <br />
