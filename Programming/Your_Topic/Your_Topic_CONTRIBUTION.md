@@ -1,6 +1,6 @@
 # Your_Topic
 
-# <Your_Details>
+# Your_Details
   _Name_: **<Your Name>** <br />
   _GitHubID_: **<Your GitHub ID>** <br />
   _YourTopic_: **<Full name of Topic>** <br />
