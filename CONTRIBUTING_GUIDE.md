@@ -103,6 +103,18 @@ Inside each directory there is a `README` file. This is the index file of the di
 │   |   └───Your_OPENCV_Topic
 │   │       │   Your_OPENCV_Topic_CONTRIBUTION.md
 │
+└───No Code
+│   │   NoCode_CONTRIBUTION.md
+│   │
+│   └───Designs
+│   │   │   Designs_CONTRIBUTION.md
+│   │   │
+│   |   └───Your_GitHubID_DesignName
+│   │       │   YourDesignName_CONTRIBUTION.md
+│   |
+│   └───Content
+│   │   │   Your_GitHubID_Content_Name.md
+│
 └───Prohramming
 │   │   Programming_CONTRIBUTION.md
 │   │
