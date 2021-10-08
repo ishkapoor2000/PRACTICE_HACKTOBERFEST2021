@@ -54,6 +54,37 @@ OpenCV (Open Source Computer Vision Library) is a library of programming functio
 <br>
 _Note_: Do not put **DL** or any unrelated projects here, they should be pat of respective categories. Unrelated project in wrong directory will be rejected.
 
+## Repository Heirarchy
+
+```
+Machine Learning
+   MachineLearning_CONTRIBUTION.md
+   │
+   └───DL
+   │   │   DeepLearning_CONTRIBUTION.md
+   │   │
+   |   └───Your_DL_Topic
+   │       │   Your_DL_Topic_CONTRIBUTION.md
+   |
+   └───ML
+   │   │   MachineLearning_CONTRIBUTION.md
+   │   │
+   |   └───Your_ML_Topic
+   │       │   Your_ML_Topic_CONTRIBUTION.md
+   |
+   └───NLP
+   │   │   NaturalLanguageProcessing_CONTRIBUTION.md
+   │   │
+   |   └───Your_NLP_Topic
+   │       │   Your_NLP_Topic_CONTRIBUTION.md
+   |
+   └───OPENCV
+   │   │   OPENCV_CONTRIBUTION.md
+   │   │
+   |   └───Your_OPENCV_Topic
+   │       │   Your_OPENCV_Topic_CONTRIBUTION.md
+```
+
 
 ## Steps to Contribute
 - Fork this repo 
