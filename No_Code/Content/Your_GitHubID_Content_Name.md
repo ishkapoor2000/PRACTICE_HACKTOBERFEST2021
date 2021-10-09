@@ -1,6 +1,6 @@
 # Write Title Here
 
-**_Note_**: Write all of your work below # Write Title Here. Also, replace |# Write Title Here| with the title of your work.
+**_Note_**: Write all of your work below **# Write Title Here**. Also, replace |# Write Title Here| with the title of your work.
 
 # Your_Details
   _Name_: **<Your Name>** <br />
