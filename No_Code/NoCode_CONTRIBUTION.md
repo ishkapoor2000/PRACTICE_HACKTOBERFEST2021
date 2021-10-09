@@ -15,6 +15,34 @@ If you're **Artistic & Creative** 💮 and want to add your amazing work, your c
 Art is a wide range of human activities (or the products thereof) that involve creative imagination and an aim to express technical proficiency, beauty, emotional power, or conceptual ideas. There is no generally agreed definition of what constitutes art, and ideas have changed over time.
 
 
+### Our Definition of Art
+
+```
+Life is a work of art,
+something you paint or write with your heart,
+taking care to make every part
+a symphony of colors or words
+that fly together like a flock of birds.
+
+You use the tools that you have,
+a paintbrush or a pen in your hand.
+Appreciate the hand you use,
+because you don't get to choose,
+and be careful what you create
+using your character trait.
+
+Take a lesson from the other designs,
+but still use your creative guidelines.
+Don't think your abilities come from your greatness;
+they are a gift from God, and they're not utterly painless;
+they take endurance and care,
+and you have to be able to bear
+the wear and tear.
+```
+
+[Source](https://www.familyfriendpoems.com/poem/my-life-the-artwork)
+
+
 <h2>
  What is Hacktoberfest2021 :thinking:? 
 </h2>
