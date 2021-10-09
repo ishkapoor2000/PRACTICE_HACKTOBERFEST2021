@@ -110,6 +110,10 @@ Keep Contributing!
 
 - [Resources for Designers](https://www.shillingtoneducation.com/blog/50-free-resources-graphic-design-projects/)
 
+- [Scrivener](https://www.literatureandlatte.com/scrivener/)
+
+- [Writeapp](https://writeapp.co/)
+
 ##### If the information from this repo was useful to you in any way, make sure you give it a star 🌟
 
 ##### Click icon to access Simulation Softwares
