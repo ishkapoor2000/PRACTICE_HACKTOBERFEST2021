@@ -1,6 +1,6 @@
 #BASICS OF OPENCV
 
-# Your_Details
+# MY_Details
   _Name_: **Kuwar Kapur** <br />
   _GitHubID_: https://github.com/kuwarkapur <br />
   _YourTopic_: OPENCV BASICS <br />
