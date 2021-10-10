@@ -56,7 +56,7 @@ All branches and folder and sub-folder names should follow this naming conventio
 ## Index (readme) files
 
 Inside each directory there is a `README` file. This is the index file of the directory. This `README` file should contain the list of sub-directories clicking on which one can navigate to a particular sub-directory. If you are adding a new sub-directory make sure you have added it to the `README` also. Again, inside subdirectories, there is another `README` file, that will contain all the topics that the subdirectory contains. The point of adding `README` inside directories and sub-directories is to help someone know about the content that is residing inside the directory or subdirectory. For the index files, please refer to the
-[ templates (<- Fix this)](../templates)
+[templates](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/Arduino/Your_Topic/Your_Topic_CONTRIBUTION.md)
 
 ---
 
