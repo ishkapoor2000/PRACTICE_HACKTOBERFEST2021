@@ -140,6 +140,21 @@ All that one must do is contribute to any open source project and send atleast 4
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
+# Some Really USEFUL LINKS
+
+* [Repo Link](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/)
+* [Contribution Guidelines](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/CONTRIBUTING_GUIDE.md)
+* [Repository Heirarchy](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/CONTRIBUTING_GUIDE.md#repository-hierarchy)
+* [Resources to learn GithHub](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/CONTRIBUTING_GUIDE.md#basics-of-git-and-github)
+* Other Resources:
+  * [Arduino](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/Arduino/Arduino_CONTRIBUTION.md#resources)
+  * [Deep Learning](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/Machine%20Learning/DL/DeepLearning_CONTRIBUTION.md#resources)
+  * [Machine Learning](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/Machine%20Learning/MachineLearning_CONTRIBUTION.md#resources)
+  * [Natural Language Processing](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/Machine%20Learning/NLP/NaturalLanguageProcessing_CONTRIBUTION.md#resources)
+  * [Designing & Content Writing](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/No_Code/NoCode_CONTRIBUTION.md#resources)
+  * [Programming](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/Programming/Programming_CONTRIBUTION.md#resources-man_technologist-woman_technologist)
+
+
 ## 👬 Owner
 
 <a href="https://github.com/ishkapoor2000"><img src="https://avatars.githubusercontent.com/u/60035881?v=4" width="100px;" alt=""/><br /><sub><b>Ish Kapoor</b></sub></a>
