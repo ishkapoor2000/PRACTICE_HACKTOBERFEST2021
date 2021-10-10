@@ -19,64 +19,63 @@ Our Hacktoberfest-2021 Contribution Practice Repository for Noobs😎... Contrib
 </h2>
 </br>
 
-## Repo will be updated soon...
-
-<!-- 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create a simple designing pattern using any language you like in our [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder which will be counted as your first PR. 🎯 </br>
-## Just 7 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
-1. 🎯Open the [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) folder in your code editor of your choice. </br>
-2. 🎯Make any design pattern you like using any programming language. </br>
-3. 🎯Save your changes and give its name by your github username.</br>
-4. 🎯Upload the screenshot of your pattern in [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder and give its name by your github username.</br>
-5. 🎯Upload your photo in [Photos](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Photos) folder and give its name by your github username.</br>
-6. 🎯Now add your profile details in [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file (**Serial No.**, **Name**, **GitHub Username**, **Photo** [Link to Your Picture in *Photo* Folder], **Pattern File Name**, **Screenshot** [Link to Your Pattern ScreenShot in *Pattern_ScreenShot* Folder], **Institution** and **Email Id**).</br>
-7. 🎯Done! You are ready to create your pull request.</br>
-
-💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
---------
-<p align="center"><h2>✔✔ What You Need to Do for Multiple PRs ✔✔</h2></p>
-
-*	Add any design pattern and screenshot of your pattern respectively in [Patterns](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Patterns) and [Pattern_ScreenShots](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Pattern_ScreenShots) folder like previous PR
-*	Give the above files **any name you like**.
-*	No need to add your photo
-*	In the [Contributors.md](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN/tree/master/Contributors.md) file add details like below: </br>
-**|&nbsp;&nbsp; |&nbsp;&nbsp; |&nbsp;&nbsp; |&nbsp;&nbsp; | your pattern filename | screenshot path |&nbsp;&nbsp; |&nbsp;&nbsp; |**
-
-----
-------
-<p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
- 
-*	```No Missing Details```
-*	```Different Pattern or Same Pattern in Different Language```
-*	[```Follow @aritraroy24```](https://github.com/aritraroy24/)
-*	```Star & Fork the Repository```</br>
-
-## Contributing to Hacktoberfest 2021 👨🏼‍💻
- <img src="./src/HacktoberFest2021.png" />
- Open source is changing the world - one pull request at a time.
+<h3 align="center">
+  <a href="https://hacktoberfest.digitalocean.com/"><img src="https://64.media.tumblr.com/7fea346d43dff365ad54f4a33441389f/1473908e7816c915-fe/s540x810/80ecb48ebe2db3aa0b3e2757ce10c71d5b3acbc9.png"></a>
+</h3>
+<h6 align="center">Open source is changing the world - one pull request at a time.</h6>
 🧑🏼‍🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
 </br>
 
-```
-🙅🏼‍♂️Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.🙅🏼‍♂️
-```
+<h2>
+ What is Hacktoberfest2021 :thinking:? 
+</h2>
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with Intel, Deespsource and Appwrite. Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt👕. Hacktoberfest is open to everyone in the global community!
 
-### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
+All that one must do is contribute to any open source project and send atleast 4 pull request between October 1 and October 31. It can be any project and you can contribute in any way possible. It can be a be a bug fix, improvement, feature addition  or even a documentation change! And win a T-Shirt👕 and awesome stickers :star_struck:.
+
+🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create:
+* A simple program in any language you like,  in our [Programming](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/Programming) folder which will be counted as your first PR. 🎯 </br>
+* A simple Arduino program in any language you like,  in our [Arduino](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/Arduino) folder which will be counted as your first PR. 🎯 </br>
+* A simple ML/DL/NLP/OpenCV program in any language you like,  in our [Machine Learning](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/Machine%20Learning) folder which will be counted as your first PR. 🎯 </br>
+* A simple design/cotent-wrting-work in any language you like,  in our [No Code](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/No_Code) folder which will be counted as your first PR. 🎯 </br>
+
+## Just 5 simple steps to earn your t-shirt for Hacktoberfest 2021 🧑🏻‍🤝‍🧑🏻
+1. 🎯Open the [PRACTICE_HACKTOBERFEST2021](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/) folder in your code editor of your choice. </br>
+2. 🎯Follow the [Contribution Guideline](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/blob/main/CONTRIBUTING_GUIDE.md). </br>
+3. 🎯Make your contribution in particular category. </br>
+4. 🎯Create a neat and presentable PR. </br>
+5. 🎯Upload your releveant photo in PR if needed. </br>
+
+--------
+
+💥💥💥 ```Some Have Been Done For You As An Example``` </br></br>
+* Contribution Demo in [Arduino](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/Arduino/Your_Topic).
+* Contribution Demo in [Machine Learning](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/Machine%20Learning/ML/Your_ML_Topic).
+* Contribution Demo in [Programming](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/Programming/Your_Topic).
+* Contribution Demo in [No Code](https://github.com/ishkapoor2000/PRACTICE_HACKTOBERFEST2021/tree/main/No_Code/Designs/Your_GitHubID_DesignName).
+
+## Happy??? Star ⭐ this Repo. 🤩
+--------
+
+<p align="center"><h3>🛑🛑🛑 ELIGIBILITY CRITERIA 🛑🛑🛑</h3></p>
+ 
+*	```Create particular folder for your contribution inside relevant category```
+*	[```Follow @sihkapoor2000```](https://github.com/ishkapoor2000/)
+*	```Star & Fork this Repository```</br>
+
+# Contributing to Hacktoberfest 2021 👨🏼‍💻
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2021
 ###### Link to register: [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
-
-### 2. 👇🏻Getting Started
-###### See more details at: [hacktoberfest.netlify.com](https://hacktoberfest.netlify.com/)
-###### Go to our repo by clicking here -  [github.com/aritraroy24/HACKTOBERFEST2021_PATTERN](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN)
-
-
-### 3. 👇🏻Star and Fork this Repository
+### 2. 👇🏻Star and Fork this Repository
 ###### ⚡  You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 ###### ⚡  GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name.
 ###### ⚡  When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
 
+
+<!-- 
 
 ### 4. 👇🏻Clone the Repository
 ###### ⚡  To make your own local copy of the repository you would like to contribute to, let’s first open up a terminal window.
@@ -132,14 +131,14 @@ Our Hacktoberfest-2021 Contribution Practice Repository for Noobs😎... Contrib
 ###### At this point, you are ready to make a pull request to the original repository.
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
-## Happy??? Star ⭐ this Repo. 🤩
+
 ## 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
 <a href="https://hacktoberfest.digitalocean.com/profile" target="blank">hacktoberfest.digitalocean.com/profile</a>
+ -->
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://hacktoberfest.netlify.com/)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
- -->
 
 ## 👬 Owner
 
